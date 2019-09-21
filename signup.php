@@ -15,7 +15,7 @@
 	<title>REGISTER</title>
 </head>
 <body>
-        <h1>Glacier</h1>
+        <h1><a href="index.php">Glacier</a></h1>
     <div id="container">
        
         <p id="center_heading">Get started today!</p>
